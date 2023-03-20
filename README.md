@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-This is the official Open Data Profile of IHK Berlin
+This is the official Open Data Profile from IHK Berlin
