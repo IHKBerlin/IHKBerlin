@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-This is the official Open Data Profile from IHK Berlin
+du befindest Dich im Repo der der IHK Berlin, der Industrie- und Handelskammer zu Berlin. Wir vertreten mit Leidenschaft die über 300.000 Gewerbetreibenden Berlins und sind damit das Sprachrohr der Berliner Wirtschaft gegenüber Politik und Öffentlichkeit. Wir sind Kultivator des Berliner Ökosystems und leisten unseren Beitrag insbesondere mit dem Fokus auf: Talente, Raum und Nachhaltigkeit. Wir setzen uns dafür ein, dass Berliner Unternehmen ihren Bedarf an Fachkräften sowie an Gewerbeflächen, Infrastruktur und Wohnraum decken können. Außerdem wollen wir Berliner Unternehmen befähigen, ökonomisch, ökologisch und sozial nachhaltig zu handeln.
